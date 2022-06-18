@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mco"]
+	path = mco
+	url = https://github.com/olafmersmann/mco
+	shallow = true
+	registered = true
+[submodule "truncnorm"]
+	path = truncnorm
+	url = https://github.com/olafmersmann/truncnorm
+	shallow = true
+	registered = true

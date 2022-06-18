@@ -1,0 +1,10 @@
+[
+  {
+    "package": "mco",
+    "oncran": true
+  },
+  {
+    "package": "truncnorm",
+    "oncran": true
+  }
+]
