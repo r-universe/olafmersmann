@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "sendmailR",
+    "oncran": true
+  },
+  {
     "package": "truncnorm",
     "oncran": true
   }

@@ -8,6 +8,11 @@
 	url = https://github.com/olafmersmann/mco
 	shallow = true
 	registered = true
+[submodule "sendmailR"]
+	path = sendmailR
+	url = https://github.com/olafmersmann/sendmailr
+	shallow = true
+	registered = true
 [submodule "truncnorm"]
 	path = truncnorm
 	url = https://github.com/olafmersmann/truncnorm
