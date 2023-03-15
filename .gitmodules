@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "loglognorm"]
+	path = loglognorm
+	url = https://github.com/olafmersmann/loglognorm
+	shallow = true
+	registered = true
 [submodule "mco"]
 	path = mco
 	url = https://github.com/olafmersmann/mco

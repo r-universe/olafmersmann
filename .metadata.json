@@ -1,5 +1,9 @@
 [
   {
+    "package": "loglognorm",
+    "oncran": true
+  },
+  {
     "package": "mco",
     "oncran": true
   },
