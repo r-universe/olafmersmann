@@ -1,10 +1,10 @@
 [
   {
-    "package": "mco",
+    "package": "sendmailR",
     "oncran": true
   },
   {
-    "package": "sendmailR",
+    "package": "mco",
     "oncran": true
   },
   {
